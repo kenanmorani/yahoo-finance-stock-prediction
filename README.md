@@ -18,15 +18,15 @@ This project demonstrates how to use machine learning techniques to predict stoc
 - Model evaluation with RMSE for stock price prediction.
 
 ## Requirements
-- Python 3.x
+- Python 3.11.11
 - Libraries:
-  - `pandas`
-  - `numpy`
-  - `matplotlib`
-  - `seaborn`
-  - `scikit-learn`
-  - `tensorflow` (for LSTM model)
-  - `yfinance` (for fetching Yahoo Finance data)
+matplotlib==3.10.0
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.6.1
+seaborn==0.13.2
+tensorflow==2.17.1
+yfinance==0.2.52
 
 ## Installation
 
