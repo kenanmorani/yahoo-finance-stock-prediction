@@ -32,4 +32,4 @@ This project demonstrates how to use machine learning techniques to predict stoc
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/yahoo-finance-stock-prediction.git
+git clone https://github.com/kenanmorani/yahoo-finance-stock-prediction.git
