@@ -32,4 +32,4 @@ yfinance==0.2.52
 
 Clone the repository:
 ```bash
-git clone https://github.com/kenanmorani/yahoo-finance-stock-prediction.git
+!git clone https://github.com/kenanmorani/yahoo-finance-stock-prediction.git
