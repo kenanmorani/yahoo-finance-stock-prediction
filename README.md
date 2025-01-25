@@ -1,2 +1,35 @@
-# yahoo-finance-stock-prediction
-"A machine learning project for predicting stock market prices using historical data from Yahoo Finance. The model utilizes technical indicators (RSI, MACD, Bollinger Bands) and implements deep learning techniques (LSTM) for price prediction."
+# Yahoo Finance Stock Prediction using Machine Learning
+
+This project demonstrates how to use machine learning techniques to predict stock prices using historical data from Yahoo Finance. The primary focus is on building a predictive model using LSTM (Long Short-Term Memory) networks to forecast the next day's closing prices. The dataset includes various technical indicators like RSI, MACD, and Bollinger Bands, which are used as features for model training.
+
+## Project Overview
+- **Data Source**: The data is fetched from Yahoo Finance and includes key stock market features such as Open, High, Low, Close, and Volume.
+- **Technical Indicators**: 
+  - **RSI (Relative Strength Index)**
+  - **MACD (Moving Average Convergence Divergence)**
+  - **Bollinger Bands**
+- **Machine Learning Model**: An LSTM-based deep learning model is used to predict the next day's closing price.
+- **Evaluation Metrics**: The model’s performance is evaluated using RMSE (Root Mean Squared Error).
+
+## Features
+- Historical stock data processing.
+- Feature engineering with technical indicators (RSI, MACD, Bollinger Bands).
+- Model training with LSTM (Long Short-Term Memory) neural networks.
+- Model evaluation with RMSE for stock price prediction.
+
+## Requirements
+- Python 3.x
+- Libraries:
+  - `pandas`
+  - `numpy`
+  - `matplotlib`
+  - `seaborn`
+  - `scikit-learn`
+  - `tensorflow` (for LSTM model)
+  - `yfinance` (for fetching Yahoo Finance data)
+
+## Installation
+
+Clone the repository:
+```bash
+git clone https://github.com/yourusername/yahoo-finance-stock-prediction.git
