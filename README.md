@@ -26,15 +26,17 @@ pandas==2.2.2
 scikit-learn==1.6.1  
 seaborn==0.13.2  
 tensorflow==2.17.1   
-yfinance==0.2.52  
+yfinance==0.2.52
+
+## Detailed Documentation
+The detailed paper is underconsideration and expected to be published soon on arXiv as a preprint. A current documentation version can be found using the follwoing link:  
+https://drive.google.com/file/d/10RTQp3N63gzXmQk79tKA_9MzNkBfZzKs/view?usp=sharing
 
 ## Installation
 
 Clone the repository:
 ```bash
-!git clone https://github.com/kenanmorani/yahoo-finance-stock-prediction.git  
+!git clone https://github.com/kenanmorani/yahoo-finance-stock-prediction.git
 
-## Detailed Documentation
 
-The detailed paper should be published on arXiv as a preprint soon. Acurrent version can be found using the follwoing link:  
-https://drive.google.com/file/d/10RTQp3N63gzXmQk79tKA_9MzNkBfZzKs/view?usp=sharing
+
