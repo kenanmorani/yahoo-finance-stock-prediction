@@ -29,7 +29,7 @@ tensorflow==2.17.1
 yfinance==0.2.52
 
 ## Detailed Documentation
-The detailed paper is underconsideration and expected to be published soon on arXiv as a preprint. A current documentation version can be found using the follwoing link:  
+The detailed paper is under consideration and expected to be published soon on arXiv as a preprint. A current documentation version can be found using the follwoing link:  
 https://drive.google.com/file/d/10RTQp3N63gzXmQk79tKA_9MzNkBfZzKs/view?usp=sharing
 
 ## Installation
